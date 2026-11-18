@@ -109,6 +109,8 @@ plt.show()
 Linear SVM Accuracy: 0.8333333333333334
 
 RBF SVM Accuracy: 0.8333333333333334
+<img width="1189" height="490" alt="image" src="https://github.com/user-attachments/assets/791527a9-9fa0-4cea-bc6c-060b19af1249" />
+
 
 ## Result
 Thus, the Support Vector Machine (SVM) classification model was successfully implemented using the Iris dataset. Both Linear and RBF kernels achieved 83.33% accuracy and their decision boundaries were visualized successfully.
